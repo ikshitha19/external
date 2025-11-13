@@ -1,0 +1,1 @@
+push and close git hub using git bash 
